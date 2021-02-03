@@ -30,3 +30,4 @@ recognition.addEventListener('results', e => {
 recognition.addEventListener('end', recognition.start);
 
 recognition.start();
+
